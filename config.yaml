@@ -31,7 +31,7 @@ rides:
         gpx: exeter route.gpx
     france_bike_coeur:
         date: 2018-06-14
-        gpx: [Cobham to Portsmouth.gpx,St Malo - Rennes Route 1.gpx,1- Rennes-Lire.gpx,2-lire-Luçon (La Rochelle).gpx,3 La Rochelle-Hourtin.gpx,4 Hourtin-Pessac.gpx]
+        gpx: [Cobham to Portsmouth.gpx,St Malo - Rennes Route 1.gpx,1- Rennes-Lire.gpx,2-lire-Lucon (La Rochelle).gpx,3 La Rochelle-Hourtin.gpx,4 Hourtin-Pessac.gpx]
     chase_the_sun_2018:
         date: 2018-06-22 
         gpx: Chase the Sun route.gpx
