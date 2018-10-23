@@ -1,0 +1,40 @@
+set_up:
+    gpx_dir: data/gpx
+
+rides:
+    clj_cobham_commute:
+        date: 2015-08-01
+        gpx: Two Way Commute.gpx
+    great_missenden_mission:
+        date: 2016-05-10
+        gpx: Great Missenden Mission.gpx
+    axa_paris:
+        date: 2016-09-29
+        gpx: Dieppe to Eiffel Tower.gpx
+    chiltern_charity:
+        date: 2016-03-10
+        gpx: chiltern_route.gpx
+    tour_de_vale_2017:
+        date: 2017-06-10
+        gpx: Tour de Vale_route.gpx
+    ride_london_2017:
+        date: 2017-07-30
+        gpx: Prudential Ride London 100 2015.gpx
+    coast_2_coast:
+        date: 2017-08-05
+        gpx: Coast 2 Coast_route.gpx
+    axa_epic_150:
+        date: 2017-09-30
+        gpx: AXA Epic 150.gpx
+    london_exeter:
+        date: 2018-04-19
+        gpx: exeter route.gpx
+    france_bike_coeur:
+        date: 2018-06-14
+        gpx: [Cobham to Portsmouth.gpx,St Malo - Rennes Route 1.gpx,1- Rennes-Lire.gpx,2-lire-Luçon (La Rochelle).gpx,3 La Rochelle-Hourtin.gpx,4 Hourtin-Pessac.gpx]
+    chase_the_sun_2018:
+        date: 2018-06-22 
+        gpx: Chase the Sun route.gpx
+    axa_southdowns_2018:
+        data:
+        gpx: AXA Southdowns Epic.gpx
