@@ -4,7 +4,7 @@ get_gps_elevation <- function(gpx_file) {
     
     gpx <- plotKML::readGPX(gpx_file)
   
-    return( gpx$tracks[[1]][[1]]$ele )
+    return( gpx$tracks[[1]][[1]]$ele %>% as.numeric() )
     
   } else {
   
@@ -20,6 +20,6 @@ get_gps_elevation <- function(gpx_file) {
   
   }
   
-  return(elevation)
+  return( elevation %>% as.numeric() )
   
 }
