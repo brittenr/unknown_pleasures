@@ -4,8 +4,10 @@ library(tidyverse)
 library(plotKML)
 library(ggridges)
 
+options(stringsAsFactors = FALSE)
+
 # Config
-########é
+########
 
 config <- yaml::read_yaml('config.yaml')
 
