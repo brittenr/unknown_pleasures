@@ -38,7 +38,7 @@ rides:
         date: 2018-04-19
         title: "09 - London Exeter tour"
         gpx: exeter route.gpx
-    france_bike_coeur:
+    france_bike_coeur_2018:
         date: 2018-06-14
         title: "10 - Bike Coeur 2018"
         gpx: [Cobham to Portsmouth.gpx,St Malo - Rennes Route 1.gpx,1- Rennes-Lire.gpx,2-lire-Lucon (La Rochelle).gpx,3 La Rochelle-Hourtin.gpx,4 Hourtin-Pessac.gpx]
@@ -50,3 +50,15 @@ rides:
         date: 2018-07-22
         title: "12 - AXA - Southdowns 2018"
         gpx: AXA Southdowns Epic.gpx
+    jurassic_beast:
+        date: 2019-05-18
+        title: "13 - Jurassic Beast with Ben"
+        gpx: Jurassic Beast.gpx
+    france_bike_coeur_2019:
+        date: 2019-06-14
+        title: "14 - Bike Coeur 2019"
+        gpx: [Coeur2019 0.gpx,Coeur2019 1.gpx,Coeur2019 2i.gpx,Coeur2019 2ii.gpx,Coeur2019 3i.gpx,Coeur2019 3ii.gpx,Coeur2019 4.gpx]
+    axa_epic_broom:
+        date: 2019-07-20
+        title: "15 - AXA Epic 2019 + Commute"
+        gpx: AXA Epic Broom.gpx
