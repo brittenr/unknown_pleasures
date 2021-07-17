@@ -1,3 +1,7 @@
+plot_vars:
+    scale: 4
+    line_size: 1.5
+
 set_up:
     gpx_dir: data/gpx
 
