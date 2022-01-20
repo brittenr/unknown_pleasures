@@ -70,3 +70,8 @@ rides:
         date: 2019-07-29
         title: "16 - AXA Makeshift Charity Ride"
         gpx: 2020-07-19_222450693_Road ride to Hotel Ibis.gpx
+    marlow_redkite:
+        date: 2021-09-05
+        title: "17 - Marlow Redkite"
+        gpx: ["Marlow Redkite Journey.gpx","Marlow Redkite.gpx"]
+
